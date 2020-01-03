@@ -21,7 +21,7 @@
 #include <stdatomic.h>
 #include <stdbool.h>
 
-#define TFA_LIBRARY_PATH "/system/vendor/lib/libtfa98xx.so"
+#define TFA_LIBRARY_PATH "/vendor/lib/libtfa98xx.so"
 
 
 /*

@@ -44,5 +44,6 @@ LOCAL_INIT_RC := android.hardware.biometrics.fingerprint@2.1-service.samsung.rc
 LOCAL_MODULE_RELATIVE_PATH := hw
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_OWNER := samsung
+LOCAL_VENDOR_MODULE := true
 
 include $(BUILD_EXECUTABLE)
